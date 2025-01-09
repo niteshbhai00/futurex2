@@ -1,4 +1,4 @@
 # futurex2
 SMART=TIME
 <br>
-made by niteshbhai
+made by niteshbhai (futurex)
